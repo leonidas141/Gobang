@@ -7,6 +7,7 @@ Gobang is an abstract strategy board game. Also called Gomoku or Five in a Row, 
 
 Black plays first if white did not win in the previous game, and players alternate in placing a stone of their color on an empty intersection. The winner is the first player to get an unbroken row of five stones horizontally, vertically, or diagonally.
 ##About this program
-This program is to realize human-computer competing in a single function `player`
+This program is to realize human-computer competing in a single function `player` in the header file `usercode.h`.
 
-##
+## Compile and run
+This program can be compiled in `Code::Blocks` version 16.12 or `VC++` version 6.0.
